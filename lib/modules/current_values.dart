@@ -45,3 +45,5 @@ class CurrentValue {
     return 'CurrentValue{id: $id, plant_id: $plantId, light: $light, water: $water, temp: $temp, last_watering_day: $lastWateringDay}';
   }
 }
+
+//add something
